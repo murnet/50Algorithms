@@ -1,0 +1,28 @@
+# venv
+.venv
+venv
+
+# ide
+.vscode
+.idea
+
+# temp files
+*.swp
+*.csv#
+*.xlsx#
+*.bkp
+*.ods#
+
+# cache
+*__pycache__
+
+# temporary folder
+temp
+
+# environment files
+.env
+.env_prod
+
+# logs
+*.log
+*.log.[1-9]
