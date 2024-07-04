@@ -5,6 +5,7 @@ venv
 # ide
 .vscode
 .idea
+.ipynb_checkpoints
 
 # temp files
 *.swp
